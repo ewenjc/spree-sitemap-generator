@@ -16,5 +16,5 @@ Gem::Specification.new do |s|
   s.requirements << 'none'
 
   s.add_dependency('spree_core', '>= 0.30.0')
-  s.add_dependency('sitemap_generator', '>= 2.0.1')
+  s.add_dependency('sitemap_generator', '= 3.0.0')
 end
